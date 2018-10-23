@@ -7,22 +7,23 @@ description: "Tournament in Pamplona, Spain, Sunday 11 November, in Napargar. Ru
 
 Spanish tournament, so the rest of the post is in Spanish ;)
 
-![Tournament](https://cloud.ajimenez.es/index.php/s/H4iwX49r6EtdG86/preview)
+![Tournament](https://cloud.ajimenez.es/index.php/s/DRgCPNFircaWFxA/preview)
 
 ## Horario
 
 Cinco rondas, tres a la mañana y 2 a la tarde, de 1h por ronda, con 10m de tiempo entre rondas. Justo antes de ir a comer se votará el ejército mejor pintado.
 
 Domingo 11 de Noviembre
-10:00 - Bienvenida y emparejamientos
-10:30 a 11:30 - Primera ronda
-11:40 a 12:40 - Segunda ronda
-12:50 a 13:50 - Tercera ronda
-14:00 - Votación de pintura
-14:00 a 15:30 - Comida!
-15:40 a 16:40 - Cuarta ronda
-16:50 a 17:50 - Quinta ronda
-18:00 - Entrega de premios
+
+- 10:00 - Bienvenida y emparejamientos
+- 10:30 a 11:30 - Primera ronda
+- 11:40 a 12:40 - Segunda ronda
+- 12:50 a 13:50 - Tercera ronda
+- 14:00 - Votación de pintura
+- 14:00 a 15:30 - Comida!
+- 15:40 a 16:40 - Cuarta ronda
+- 16:50 a 17:50 - Quinta ronda
+- 18:00 - Entrega de premios
 
 ## Reglamento
 
