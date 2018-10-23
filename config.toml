@@ -1,0 +1,37 @@
+baseURL = "https://ajimenez.es"
+languageCode = "en-us"
+title = "Coding & Painting"
+theme = "hyde-hyde"
+
+[params]
+    author = "Aitor Jiménez Yañez"
+    authorimage = "img/bsod.png"
+    description = "Personal blog about programming, painting and wargaming."
+
+    dateformat = "January 2, 2006"
+    themeColor = "theme-custom"
+
+[params.social]
+    github = "leberechtreinhold"
+    email = "aitor@ajimenez.es"
+
+[[menu.main]]
+    name = "Programming"
+    weight = 100
+    identifier = "programming"
+    url = "/coding/"
+    
+[[menu.main]]
+    name = "Painting"
+    weight = 150
+    identifier = "painting"
+    url = "/painting/"
+
+[[menu.main]]
+    name = "Wargames"
+    weight = 200
+    identifier = "wargames"
+    url = "/wargames/"
+
+[taxonomies]
+	tag = "tags"
