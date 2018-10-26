@@ -10,9 +10,33 @@ The following image contains the probability of winning, either by a straight ma
 
 Red if the probably is less than 40%, Green if greater than 60%. For example, a Knight charges a Spear. Knight has +3 against infantry, and the Spear has +4 against mounted. The Knight will kil on simple win, and the Spear will need to double the Knight. That means the Knight has a 27.8% of killing the Spear, while the Spear has a 11.1% of killing the Knight.
 
-And here's a table of kills in a standard situation: asssumes all eleements are unsupported except Pikes, which are supported, Bows are being charged and is considered the first turn, and is close combat (the art is not shooting). The terrain is assumed plain.
+And here's a table of kills in a standard situation: *asssumes all eleements are unsupported except Pikes, which are supported, Bows are being charged and is considered the first turn, and is close combat (the art is not shooting). The terrain is assumed plain.*
 
 ![Kills](https://cloud.ajimenez.es/index.php/s/3XongxsaECziPJK/preview)
+
+You can see what kills what in a simple table, in the same conditions as above, for reference:
+
+Killer | Killed by simple                  | Killed by double
+-------|-----------------------------------|-----------------------
+El     | Wwg,Hch,Hd,Bw,Kn,Sp,Sch,Wb,Pk,Art | Wwg,Hch,Hd,Bw,Kn,Sp,Sch,Wb,Pk,Art
+Kn     | Ps,Hd,Ax,Bw,Bd,Sp,Sch,Wb,Pk,Art   | Ps,Hd,Ax,Bw,Bd,Sp,Sch,Wb,Pk,Art
+Hch    | Art,Sch,Bw                        | Art,Sch,Bw
+Cv     | Art,Ps,Sch,Bw                     | Art,Ps,Sch,Bw
+Lch    | Art,Sch,Bw                        | Art,Sch,Bw
+Sch    | Hch,Hd,Bw,Kn,Sp,Bd,Sch,Wb,Pk,Art  | Hch,Hd,Bw,Kn,Sp,Bd,Sch,Wb,Pk,Art
+Cm     | Art,Ps,Sch,Bw                     | Art,Ps,Sch,Bw
+Lh     | Hch,El,Bw,Kn,Sp,Sch,Pk,Art        | Hch,El,Bw,Kn,Sp,Sch,Pk,Art
+Lcm    | Hch,El,Bw,Kn,Sch,Art              | Hch,El,Bw,Kn,Sch,Art
+Sp     | Art,Sch                           | Art,Sch
+Pk     | Art,Sch                           | Art,Sch
+Bd     | Art,Sch                           | Art,Sch
+Bw     | Kn,Art,Sch,Hch                    | Kn,Art,Sch,Hch
+Wb     | Hd,Bd,Sp,Sch,Pk,Art               | Hd,Bd,Sp,Sch,Pk,Art
+Hd     | Art,Sch                           | Art,Sch
+Ax     | El,Art,Sch                        | El,Art,Sch
+Ps     | El,Art,Sch                        | El,Art,Sch
+Art    | Art,Sch                           | Art,Sch
+Wwg    | Art,Sch                           | Art,Sch
 
 If you want to generate your own stats, you can generate the excel with the
 following python script, which you can get in this gist.
