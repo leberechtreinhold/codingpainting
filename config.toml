@@ -9,7 +9,7 @@ theme = "hyde-hyde"
     description = "Personal blog about programming, painting and wargaming."
 
     dateformat = "January 2, 2006"
-    themeColor = "theme-custom"
+    themeColor = "theme-base-09"
 
 [params.social]
     github = "leberechtreinhold"
