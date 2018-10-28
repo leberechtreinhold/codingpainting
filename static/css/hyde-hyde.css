@@ -718,3 +718,11 @@
   
   /*# sourceMappingURL=hyde-hyde.css.map */
   
+  code {
+    background-color: transparent;
+    padding: 0px;
+  }
+
+  .highlight > pre {
+    padding: 20px;
+  }
