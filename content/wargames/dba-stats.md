@@ -1,8 +1,12 @@
 ---
 title: "De Bellis Antiquitatis Statistics"
-date: 2018-09-18T18:26:30+02:00
-tags: ["wargaming", "dba", "programming", "python"]
+date: 2018-10-14
+tags: ["wargames", "wargame-resources", "dba", "programming", "python"]
 ---
+
+*Different statistics, useful for quick reference on DBA*
+
+<!--more--> 
 
 The following image contains the probability of winning, either by a straight majority or by doubling the enemy, on a DBA combat roll.
 

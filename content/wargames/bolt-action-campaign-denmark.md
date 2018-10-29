@@ -1,6 +1,6 @@
 ---
 title: "Bolt Action Campaign Denmark"
-date: 2018-10-22T13:13:53+02:00
+date: 2018-10-03
 draft: true
 ---
 

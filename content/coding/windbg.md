@@ -1,13 +1,18 @@
 ---
 title: "Windbg useful reference"
-date: 2018-09-13T17:33:12+02:00
-lastmod: 2018-09-13T17:33:12+02:00
-tags: ["programming", "debugging"]
+date: 2018-09-17
+tags: ["programming", "debugging", "windbg", "kernel"]
 description: "List of WinDBG commands that can be useful for a variety of situations."
 ---
 
+*List of WinDBG commands that can be useful for a variety of situations.*
+
+<!--more--> 
+
 This is a helper file (that I keep on Windbg's scratchpad) with a bunch of commands that I want for fast reference. They range from totally trivial, but very used, like `r` or `dS`, to more complex flows, like avoiding a driver load, symbol debugging and leak detection. Or things which I never remember the exact syntax, like navigating registry inside the debugger. This is no substitute for true references for all commands, but rather a more case-by-case uses.
-        
+
+You can also view it in this [Gist](https://gist.github.com/leberechtreinhold/99dcdac22bc273e26ce4b6607346d985)
+
     // ------------------------------- GENERAL ---------------------------------
     
     !address mem => info de mem

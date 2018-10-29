@@ -1,12 +1,7 @@
 ---
 title: "Ugly Aop in Dotnet"
 date: 2018-10-22T18:30:08+02:00
-lastmod: 2018-10-22T18:30:08+02:00
-tags : [ "dev", "hugo", "hyde-hyde"]
-categories : [ "dev" ]
-layout: post
-type:  "post"
-draft: false
+draft: true
 ---
 
 **Insert Lead paragraph here.**

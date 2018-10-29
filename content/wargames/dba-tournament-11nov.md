@@ -1,9 +1,12 @@
 ---
 title: "DBA Tournament - 11 November - Pamplona"
-date: 2018-10-22T11:55:23+02:00
-draft: false
-description: "Tournament in Pamplona, Spain, Sunday 11 November, in Napargar. Ruleset DBA 2.2, 5 rounds."
+date: 2018-10-22
+tags: ["wargames", "events", "dba"]
 ---
+
+*Tournament in Pamplona, Spain, Sunday 11 November, in Napargar. Ruleset DBA 2.2, 5 rounds.*
+
+<!--more--> 
 
 Spanish tournament, so the rest of the post is in Spanish ;)
 

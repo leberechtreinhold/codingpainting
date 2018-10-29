@@ -1,10 +1,12 @@
 ---
 title: "Seleucid Army, 15mm"
-date: 2018-10-22T18:25:30+02:00
-lastmod: 2018-10-22T18:25:30+02:00
+date: 2018-10-26
 tags: ["painting", "15mm", "xyston", "forgedinbattle", "baueda", "dba"]
-draft: false
 ---
+
+*Seleucid army for DBA 2.2, 15mm, mostly Xyston*
+
+<!--more--> 
 
 Seleucid army for DBA 2.2, first option (just after Alexander's death). Miniatures from Xyston, with the exception of the pikes (not counting the argyraspides, which are Xyston too). The tent is from baueda.
 

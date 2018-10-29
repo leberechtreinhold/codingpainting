@@ -1,6 +1,6 @@
 ---
 title: "Full Thrust Battle"
-date: 2018-10-22T13:13:42+02:00
+date: 2018-09-22
 draft: true
 ---
 

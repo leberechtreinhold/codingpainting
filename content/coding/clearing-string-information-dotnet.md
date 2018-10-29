@@ -1,9 +1,12 @@
 ---
 title: "Clearing String Information Dotnet"
-date: 2018-10-28T18:29:24+02:00
+date: 2018-10-28
 tags: [ "programming", "c-sharp", ".net", "security"]
-description: "Zero .NET strings and a bunch of helpers to make SecureStrings more usable with third parties."
 ---
+
+*Zeroing .NET strings and a bunch of helpers to make SecureStrings more usable with third parties.*
+
+<!--more--> 
 
 Let's say we have a application with a login window. You enter your username, your password, you do stuff, and you log out. After, a new user uses the computer. Can they get your login? Well, it depends.
 

@@ -1,11 +1,12 @@
 ---
 title: "Image and pdf manipulation with rust"
-date: 2018-09-17T18:26:30+02:00
-lastmod: 2018-09-17T18:26:30+02:00
+date: 2018-09-10
 tags: ["programming", "rust"]
 ---
 
-**Trying to use Rust to make a very small program that reads a bunch of scanned pages from a book, divides them, and finally create a PDF with the result.**
+*Trying to use Rust to make a very small program that reads a bunch of scanned pages from a book, divides them, and finally create a PDF with the result.*
+
+<!--more--> 
 
 ## The case for Rust
 
