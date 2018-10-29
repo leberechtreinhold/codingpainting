@@ -1,7 +1,7 @@
 ---
 title: "Clearing String Information Dotnet"
 date: 2018-10-28T18:29:24+02:00
-tags: [ "programming", "c#", ".net", "security"]
+tags: [ "programming", "c-sharp", ".net", "security"]
 description: "Zero .NET strings and a bunch of helpers to make SecureStrings more usable with third parties."
 ---
 
@@ -28,7 +28,7 @@ However, not always you will be have the opportunity to use SecureStrings direct
 We can fix this by using [Extensions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods) for SecureString, and using a small wrapper which will give us a temporal string reference, then cleaning after
 
 
-{{< highlight csharp >}}
+{{< highlight js >}}
 
 var secret = new SecureString();
 secret.AppendChar('.');
@@ -46,7 +46,7 @@ using (var tmp = secret.GetString())
 
 The key is zeroing the string, which is what makes the whole thing unsafe: we access the address of the buffer, and iterate over the contents using a pointer to a character, zeroing it. I have also added a subtitute option, which is very useful when debugging zeroing in different places.
 
-{{< highlight csharp >}}
+{{< highlight js >}}
 
 public static unsafe void ClearString(this string source, string substitue = "")
 {
