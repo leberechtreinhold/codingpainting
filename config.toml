@@ -1,11 +1,11 @@
-baseURL = "https://ajimenez.es"
+baseURL = "https://ajimenez.es/"
 languageCode = "en-us"
 title = "Coding & Painting"
 theme = "hyde-hyde"
 
 [params]
     author = "Aitor Jiménez Yañez"
-    authorimage = "/img/avatar.jpg"
+    authorimage = "img/avatar.jpg"
     description = "Personal blog about programming, painting and wargaming."
 
     dateformat = "January 2, 2006"
