@@ -1,7 +1,7 @@
 ---
 title: "DBA 2.2 Quick Reference Sheet"
 date: 2018-10-29
-lastmod: 2018-11-01
+lastmod: 2018-11-02
 tags: ["wargames", "wargame-resources", "dba"]
 ---
 
@@ -12,6 +12,7 @@ tags: ["wargames", "wargame-resources", "dba"]
 A continuation of my statistics post, I have created a small Quick Reference Sheet with the most important information for playing, plus a single page with the stats. Lots of new people in the club excited for DBA, so I think this can be a very useful reference for all of us.
 
 [Download here](https://cloud.ajimenez.es/index.php/s/pkkp57qpD8yWZZx/download)
+
 [Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/fKi4kt33R69gwTk/download)
 
 *Image preview*
@@ -28,6 +29,7 @@ A continuation of my statistics post, I have created a small Quick Reference She
 - Additional style fixes on 
 
 [Download here](https://cloud.ajimenez.es/index.php/s/pkkp57qpD8yWZZx/download)
+
 [Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/fKi4kt33R69gwTk/download)
 
 #### 2018-11-01 v1.1
