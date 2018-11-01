@@ -11,12 +11,24 @@ tags: ["wargames", "wargame-resources", "dba"]
 
 A continuation of my statistics post, I have created a small Quick Reference Sheet with the most important information for playing, plus a single page with the stats. Lots of new people in the club excited for DBA, so I think this can be a very useful reference for all of us.
 
-[Download here](https://cloud.ajimenez.es/index.php/s/YMk6rLqaQGcXYq9/download)
+[Download here](https://cloud.ajimenez.es/index.php/s/pkkp57qpD8yWZZx/download)
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/fKi4kt33R69gwTk/download)
 
 *Image preview*
 ![Preview](https://cloud.ajimenez.es/index.php/s/GQ8nPsnMPSnSsiT/preview)
 
 ### Changelog
+
+#### 2018-11-02 v1.2
+
+- The header now specifies DBA2.2 to avoid confusion
+- Moved art (shooting) +4/+4 to Infantry
+- Clarified the simple/double tables on Mathematica Breviarum
+- Spanish version!
+- Additional style fixes on 
+
+[Download here](https://cloud.ajimenez.es/index.php/s/pkkp57qpD8yWZZx/download)
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/fKi4kt33R69gwTk/download)
 
 #### 2018-11-01 v1.1
 
