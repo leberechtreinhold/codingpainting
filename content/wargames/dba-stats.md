@@ -22,25 +22,25 @@ You can see what kills what in a simple table, in the same conditions as above, 
 
 Killer | Killed by simple                  | Killed by double
 -------|-----------------------------------|-----------------------
-El     | Wwg,Hch,Hd,Bw,Kn,Sp,Sch,Wb,Pk,Art | Wwg,Hch,Hd,Bw,Kn,Sp,Sch,Wb,Pk,Art
-Kn     | Ps,Hd,Ax,Bw,Bd,Sp,Sch,Wb,Pk,Art   | Ps,Hd,Ax,Bw,Bd,Sp,Sch,Wb,Pk,Art
-Hch    | Art,Sch,Bw                        | Art,Sch,Bw
-Cv     | Art,Ps,Sch,Bw                     | Art,Ps,Sch,Bw
-Lch    | Art,Sch,Bw                        | Art,Sch,Bw
-Sch    | Hch,Hd,Bw,Kn,Sp,Bd,Sch,Wb,Pk,Art  | Hch,Hd,Bw,Kn,Sp,Bd,Sch,Wb,Pk,Art
-Cm     | Art,Ps,Sch,Bw                     | Art,Ps,Sch,Bw
-Lh     | Hch,El,Bw,Kn,Sp,Sch,Pk,Art        | Hch,El,Bw,Kn,Sp,Sch,Pk,Art
-Lcm    | Hch,El,Bw,Kn,Sch,Art              | Hch,El,Bw,Kn,Sch,Art
-Sp     | Art,Sch                           | Art,Sch
-Pk     | Art,Sch                           | Art,Sch
-Bd     | Art,Sch                           | Art,Sch
-Bw     | Kn,Art,Sch,Hch                    | Kn,Art,Sch,Hch
-Wb     | Hd,Bd,Sp,Sch,Pk,Art               | Hd,Bd,Sp,Sch,Pk,Art
-Hd     | Art,Sch                           | Art,Sch
-Ax     | El,Art,Sch                        | El,Art,Sch
-Ps     | El,Art,Sch                        | El,Art,Sch
+El     | Wwg,Hch,Hd,Bw,Kn,Sp,Sch,Wb,Pk,Art | All except Ps
+Kn     | Ps,Hd,Ax,Bw,Bd,Sp,Sch,Wb,Pk,Art   | All
+Hch    | Art,Sch,Bw                        | All except Ps
+Cv     | Art,Ps,Sch,Bw                     | All
+Lch    | Art,Sch,Bw                        | All except Ps
+Sch    | Hch,Hd,Bw,Kn,Sp,Bd,Sch,Wb,Pk,Art  | All except Ps
+Cm     | Art,Ps,Sch,Bw                     | All
+Lh     | Hch,El,Bw,Kn,Sp,Sch,Pk,Art        | All
+Lcm    | Hch,El,Bw,Kn,Sch,Art              | All
+Sp     | Art,Sch                           | All except Cv, LH, LCm, Ps
+Pk     | Art,Sch                           | All except Cv, LH, LCm, Ps
+Bd     | Art,Sch                           | All except  LH, LCm, Ps
+Bw     | Kn,Art,Sch,Hch                    | All
+Wb     | Hd,Bd,Sp,Sch,Pk,Art               | All except LH, LCm, Ps
+Hd     | Art,Sch                           | All except Cv, LH, LCm, Ps
+Ax     | El,Art,Sch                        | All except LH, LCm
+Ps     | El,Art,Sch                        | All
 Art    | Art,Sch                           | Art,Sch
-Wwg    | Art,Sch                           | Art,Sch
+Wwg    | Art,Sch                           | All except Cv, LH, LCm, Ps
 
 If you want to generate your own stats, you can generate the excel with the
 following python script, which you can get in this gist.
