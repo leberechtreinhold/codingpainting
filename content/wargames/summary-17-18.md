@@ -1,5 +1,4 @@
 ---
-title: "Summary 17 18"
 title: "History at War: Summary of 2017-2018"
 date: 2018-11-21
 tags: ["wargames", "lheg"]
