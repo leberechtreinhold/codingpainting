@@ -11,9 +11,9 @@ tags: ["wargames", "wargame-resources", "dba"]
 
 A continuation of my statistics post, I have created a small Quick Reference Sheet with the most important information for playing, plus a single page with the stats. Lots of new people in the club excited for DBA, so I think this can be a very useful reference for all of us.
 
-[Download here](https://cloud.ajimenez.es/index.php/s/E8cttMcXjkAK45i/download)
+[Download here](https://cloud.ajimenez.es/index.php/s/aw2ExnJraQiFWYc/download)
 
-[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/aw2ExnJraQiFWYc/download)
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/E8cttMcXjkAK45i/download)
 
 *Image preview*
 ![Preview](https://cloud.ajimenez.es/index.php/s/GQ8nPsnMPSnSsiT/preview)
