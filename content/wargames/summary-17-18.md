@@ -4,7 +4,7 @@ date: 2018-11-21
 tags: ["wargames", "lheg"]
 ---
 
-Small summary of some activities of History at War/La Historia en Guerra, a Wargame club in Pamplona, Navarre, Spain.
+*Small summary of some activities of History at War/La Historia en Guerra, a Wargame club in Pamplona, Navarre, Spain.*
 
 <!--more--> 
 
