@@ -1,7 +1,7 @@
 ---
 title: "Krasny Bor"
 date: 2018-12-15
-tags : [ "wargames", "rommel", "ww2"]
+tags : [ "wargames", "rommel", "ww2", "aar"]
 ---
 
 *Scenario and recreation of this battle using the wargame Rommel, by Sam Mustafa. Includes the rules for the scenario and an AAR.*
