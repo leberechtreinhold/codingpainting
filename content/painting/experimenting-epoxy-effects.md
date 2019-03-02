@@ -16,8 +16,7 @@ First, the concept. Since the mini is holding something magical in front, the id
 
 For the base, I used an Andrea wood base. The base MUST be solid wood for this! It doesn't need to be of great quality (in fact, the very good ones made from root can be problematic because the have lot's of knots that are very tough). Then with a flat chisel we mark the area we want to carve. Once that's done, we use a manual drill to make holes as references. Finally, with a curved chisel and a hammer, we start joining the holes, and thanks to the marking we did earlier, it's not going to break and splinter outside of that area. BE CAREFUL WITH POWER TOOLS! This can all break easily AND BURN so it's better to go manual for most of the work (you can use it as a helper for the initial hole, but don't push too much).
 
-
-![Step 1: Carving](hhttps://cloud.ajimenez.es/index.php/s/iApZMCEPXnCH8Fi/preview)
+![Step 1: Carving](https://cloud.ajimenez.es/index.php/s/iApZMCEPXnCH8Fi/preview)
 
 It took quite a bit of time to get down to this, however it was a pretty good result. Then I added a ramp for the beach itself, and made space for the rock in which the mini is supported. Finally, with a dremel I started cleaning stuff and made sure it was a good base. With the dremel you can remove lots of material very fast, so ensure it's not at maximum speed or anything. Your texture doesn't need to be super super clean, as it's emulating rock, so don't worry too much. I used [4Ground Render texture](), which is a great aquaplast alternative. Finally, using textured paint (in this case, AK sand), I finished the look.
 
