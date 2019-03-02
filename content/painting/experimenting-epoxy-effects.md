@@ -4,7 +4,7 @@ date: 2019-03-02
 tags: ["painting", "28mm", "warhammer", "epoxy", "water", "osl", "tutorial"]
 ---
 
-*Making a scenic water base using epoxy, step by step, using color to add depth, and then making a mess trying to add OSL and reflections to it. *
+*Making a scenic water base using epoxy, step by step, using color to add depth, and then making a mess trying to add OSL and reflections to it.*
 
 <!--more--> 
 
