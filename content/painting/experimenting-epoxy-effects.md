@@ -18,7 +18,7 @@ For the base, I used an Andrea wood base. The base MUST be solid wood for this! 
 
 ![Step 1: Carving](https://cloud.ajimenez.es/index.php/s/iApZMCEPXnCH8Fi/preview)
 
-It took quite a bit of time to get down to this, however it was a pretty good result. Then I added a ramp for the beach itself, and made space for the rock in which the mini is supported. Finally, with a dremel I started cleaning stuff and made sure it was a good base. With the dremel you can remove lots of material very fast, so ensure it's not at maximum speed or anything. Your texture doesn't need to be super super clean, as it's emulating rock, so don't worry too much. I used [4Ground Render texture](), which is a great aquaplast alternative. Finally, using textured paint (in this case, AK sand), I finished the look.
+It took quite a bit of time to get down to this, however it was a pretty good result. Then I added a ramp for the beach itself, and made space for the rock in which the mini is supported. Finally, with a dremel I started cleaning stuff and made sure it was a good base. With the dremel you can remove lots of material very fast, so ensure it's not at maximum speed or anything. Your texture doesn't need to be super super clean, as it's emulating rock, so don't worry too much. I used [4Ground Render texture](http://www.greatescapegames.co.uk/painting-modelling-1/glues/4ground-render.html), which is a great aquaplast alternative. Finally, using textured paint (in this case, AK sand), I finished the look.
 
 ![Step 2: Carving and cleaning](https://cloud.ajimenez.es/index.php/s/zfRR9Yp3QEkGmza/preview)
 
