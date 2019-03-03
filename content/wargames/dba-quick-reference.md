@@ -13,7 +13,11 @@ A continuation of my statistics post, I have created a small Quick Reference She
 
 [Download here](https://cloud.ajimenez.es/index.php/s/sEkys4qBHsSLqT5)
 
+[Download here (Shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/dyR7Dzgg7PnBti9)
+
 [Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/Y9rXAZe4YF92R35)
+
+[Download here (Spanish Version, shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/N4er4gtXkdXDCcc)
 
 [Sheet for each player in a tournament, to record each match (Spanish only)](https://cloud.ajimenez.es/index.php/s/7NWizxH6YGMMgT4)
 
@@ -21,6 +25,21 @@ A continuation of my statistics post, I have created a small Quick Reference She
 ![Preview](https://cloud.ajimenez.es/index.php/s/GQ8nPsnMPSnSsiT/preview)
 
 ### Changelog
+
+#### 2019-03-03 v1.4
+
+- Added a print friendly version. It lacks the Mathematica Breviarium, so it's a single double sided page, in black and white, high contrast and less historical decorations, so it's easier on the ink.
+
+[Download here](https://cloud.ajimenez.es/index.php/s/sEkys4qBHsSLqT5)
+
+[Download here (Shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/dyR7Dzgg7PnBti9)
+
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/Y9rXAZe4YF92R35)
+
+[Download here (Spanish Version, shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/N4er4gtXkdXDCcc)
+
+[Sheet for each player in a tournament, to record each match (Spanish only)](https://cloud.ajimenez.es/index.php/s/7NWizxH6YGMMgT4)
+
 
 #### 2019-02-27 v1.4
 
