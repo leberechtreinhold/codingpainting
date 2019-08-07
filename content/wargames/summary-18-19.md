@@ -1,6 +1,6 @@
 ---
 title: "History at War: Summary of 2018-2019"
-date: 2019-01-08
+date: 2019-08-01
 tags: ["wargames", "lheg"]
 ---
 
