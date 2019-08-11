@@ -22,10 +22,10 @@ theme = "hyde-hyde"
     url = "/coding/"
     
 [[menu.main]]
-    name = "Painting"
+    name = "Art"
     weight = 150
-    identifier = "painting"
-    url = "/painting/"
+    identifier = "art"
+    url = "/art/"
 
 [[menu.main]]
     name = "Wargames"
