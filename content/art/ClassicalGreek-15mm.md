@@ -12,7 +12,7 @@ Army for a variety of DBA 2.2 Classical Greek armies, centered around the Pelopp
 
 A small detail I have added is that the leader has his helm golden plated, like the [famous artifact found in Israel](https://www.livescience.com/18700-ancient-helmet-greek-warrior.html).
 
-Seleucid army for DBA 2.2, first option (just after Alexander's death). Miniatures from Xyston, with the exception of the pikes (not counting the argyraspides, which are Xyston too). The tent is from baueda.
+All the hoplites are AB, except the dead one and the generals which are Xyston. Rest of the minis (light infantry and cavalry) are also Xyston.
 
 ![Army, general view](https://cloud.ajimenez.es/index.php/s/FMMw5xmdEdM429A/preview)
 *Army, general view.*
