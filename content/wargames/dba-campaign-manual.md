@@ -24,7 +24,7 @@ The campaign is grid-based, and you move armies between the nodes, fight if ther
 
 ### Changelog
 
-#### 2018-08-18 v1.0.1
+#### 2019-08-18 v1.0.1
 
 - Initial digital version
 
