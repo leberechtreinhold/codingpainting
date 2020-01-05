@@ -10,4 +10,4 @@ tags: ["painting", "15mm", "xyston", "baueda", "dba", "forgedinbattle", "seleuci
 
 I have added more minis, mostly from Xyston, for the Seleucid army. These have been used for the draft.
 
-![Army](https://cloud.ajimenez.es/index.php/s/2DEmg5fbdHyfD8c/preview)
+[![Army](https://cloud.ajimenez.es/index.php/s/2DEmg5fbdHyfD8c/preview)](https://cloud.ajimenez.es/index.php/s/2DEmg5fbdHyfD8c)

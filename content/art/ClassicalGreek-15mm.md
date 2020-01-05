@@ -14,14 +14,14 @@ A small detail I have added is that the leader has his helm golden plated, like 
 
 All the hoplites are AB, except the dead one and the generals which are Xyston. Rest of the minis (light infantry and cavalry) are also Xyston.
 
-![Army, general view](https://cloud.ajimenez.es/index.php/s/FMMw5xmdEdM429A/preview)
+[![Army, general view](https://cloud.ajimenez.es/index.php/s/FMMw5xmdEdM429A/preview)](https://cloud.ajimenez.es/index.php/s/FMMw5xmdEdM429A)
 *Army, general view.*
 
-![Light infantry](https://cloud.ajimenez.es/index.php/s/rD8CRo5Eqx4JWwF/preview)
+[![Light infantry](https://cloud.ajimenez.es/index.php/s/rD8CRo5Eqx4JWwF/preview)](https://cloud.ajimenez.es/index.php/s/rD8CRo5Eqx4JWwF)
 *Light infantry, Peltast and Psiloi. Yeah... sometimes they were really light.*
 
-![Cavalry](https://cloud.ajimenez.es/index.php/s/PxTtxb35bgaS3aC/preview)
+[![Cavalry](https://cloud.ajimenez.es/index.php/s/PxTtxb35bgaS3aC/preview)](https://cloud.ajimenez.es/index.php/s/PxTtxb35bgaS3aC)
 *While cavalry wasn't really a prestigious unit in ancient Greece, their role was key, both in scouting and during the battle, covering the hoplite formations.*
 
-![Hoplite details](https://cloud.ajimenez.es/index.php/s/kHtKZxdpZNYgyaG/preview)
+[![Hoplite details](https://cloud.ajimenez.es/index.php/s/kHtKZxdpZNYgyaG/preview)](https://cloud.ajimenez.es/index.php/s/kHtKZxdpZNYgyaG)
 *Hoplite detail*
