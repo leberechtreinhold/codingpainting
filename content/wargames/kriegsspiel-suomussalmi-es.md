@@ -63,7 +63,7 @@ Los soviéticos, confiados de su superioridad numérica, deciden atacar frontalm
 
 Queriendo mantener la columna, deciden volver a atacar Haukila frontalmente, pero vuelven a fracasar. Pero el 5 de Diciembre la situación cambia. Mientras los finlandeses preparan una incursión para atacar la retaguardia soviética en dos días, los soviéticos estaban abriendo su frente de forma masiva para cruzar los lagos. Dicha incursión se topa con los unos de los batallones del 759RR, y es totalmente destruida. No obstante dicha distracción impide que el 15B se vea rodeado y es capaz de huir hacia Suomussalmi con bastantes bajas. El ejército soviético había pagado caro, pero se encontraba cerca de la meta. Decide dedicar unos días y asegurarse que el ataque vaya a salir con éxito.
 
-6 Dec - 12 Dec
+6 Dic - 12 Dic
 --------------
 
 En el norte el avance proseguía. Los soviéticos, todavía preocupados por el frío y los "fantasmas" finlandeses, como habían empezado a llamarlos, deciden apostar la artillería que les queda en Linna, donde estarían resguardadas del frío. Un batallón se encargaría de defenderla a toda costa. El 6 de Diciembre se avistan refuerzos finlandeses, el 16B, que toman rápidamente la cobertura de la bosque y de la noche. Los soviéticos ante eso preparan una gigantesca defensa en una columna larga, fortificando varios kilométricos y preparándose para cualquier ofensiva finlandesa. Sin embargo, no se materializó a pesar de esperar días y días. Dedicando más recursos a la búsqueda y captura de finlandeses, respiran aliviados cuando les llega el informe de que D1 había sido destruido días atrás, aunque a costa de muchas bajas. Deciden dedicar dos batallones a buscar el refuerzo finlandés, y organizan patrullas.
