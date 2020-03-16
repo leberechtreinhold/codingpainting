@@ -40,8 +40,8 @@ Los finlandeses no estaban preparado para una ofensiva tan grande en el norte, e
 [![Mapa de Suomussalmi](https://cloud.ajimenez.es/index.php/s/WKAKMfg2rfeGsTA/preview)](https://cloud.ajimenez.es/index.php/s/qDMM5YrbRFof3KR)
 *Mapa de Suomussalmi, donde tiene lugar la batalla.*
 
-30 Nov - 5 de Diciembre
------------------------
+30 Noviembre - 5 de Diciembre
+-----------------------------
 
 La batalla comienza con la 163D atacando la región. Sus fuerzas están dividas en dos: una fuerza principal, con el Regimiento 81 de Rifles (81RR en adelante) y 662RR, así como apoyo de artillería y tanques, se dedica a tomar la carretera norte, mientras que una fuerza más pequeña, con el 7599, una compañía de tanques del batallón 222 y un regimiento de artillería, ataca el sur. Los finlandeses sin embargo sólo disponente del Batallón independiente 15 (15B en adelante), que se encuentra en Suomussalmi. De ellos, han separado una compañía, que se encuentra vigilando más adelante, y un destacamento independiente, compuesto por guardas fronterizos y milicia (en adelante, D1).
 
@@ -63,8 +63,8 @@ Los soviéticos, confiados de su superioridad numérica, deciden atacar frontalm
 
 Queriendo mantener la columna, deciden volver a atacar Haukila frontalmente, pero vuelven a fracasar. Pero el 5 de Diciembre la situación cambia. Mientras los finlandeses preparan una incursión para atacar la retaguardia soviética en dos días, los soviéticos estaban abriendo su frente de forma masiva para cruzar los lagos. Dicha incursión se topa con los unos de los batallones del 759RR, y es totalmente destruida. No obstante dicha distracción impide que el 15B se vea rodeado y es capaz de huir hacia Suomussalmi con bastantes bajas. El ejército soviético había pagado caro, pero se encontraba cerca de la meta. Decide dedicar unos días y asegurarse que el ataque vaya a salir con éxito.
 
-6 Dic - 12 Dic
---------------
+6 Diciciembre - 12 Diciembre
+----------------------------
 
 En el norte el avance proseguía. Los soviéticos, todavía preocupados por el frío y los "fantasmas" finlandeses, como habían empezado a llamarlos, deciden apostar la artillería que les queda en Linna, donde estarían resguardadas del frío. Un batallón se encargaría de defenderla a toda costa. El 6 de Diciembre se avistan refuerzos finlandeses, el 16B, que toman rápidamente la cobertura de la bosque y de la noche. Los soviéticos ante eso preparan una gigantesca defensa en una columna larga, fortificando varios kilométricos y preparándose para cualquier ofensiva finlandesa. Sin embargo, no se materializó a pesar de esperar días y días. Dedicando más recursos a la búsqueda y captura de finlandeses, respiran aliviados cuando les llega el informe de que D1 había sido destruido días atrás, aunque a costa de muchas bajas. Deciden dedicar dos batallones a buscar el refuerzo finlandés, y organizan patrullas.
 
@@ -86,8 +86,8 @@ El ejército soviético había perdido comunicación prácticamente con la total
 *Vista de la situación el 11 de Diciembre. El grupo de ataque norte avanza al sur, pero el 16B (fuera de la foto) les corta la retaguardia.*
 
 
-12 Dic - 19 Dic
----------------
+12 Diciembre - 19 Diciembre
+---------------------------
 
 No había nada que hacer. El ejército soviético sólo podía comunicarse con el grupo de retaguardia norte, que consistía de una batería de artillería y dos batallones de infantería, y por si fuera poco, no sabían si el 16B seguía a su alrededor. Toda su fuerza principal, casi 10000 hombres, estaba incomunicada. Gracias a su superioridad aérea el ejército soviético consiguió confirmar sus posiciones utilizando aviones de reconocimiento, pero no podían establecer contacto ni cambiar la situación. El alto mando del 9E decide acelerar la marcha de la 44D, una división motorizada y cuya ayuda sería más que bienvenida.
 
@@ -127,7 +127,7 @@ Los finlandeses no se quedan atrás. Gracias a sus nuevos refuerzos, avanzan rá
 
 Con la luna llena del 24 de Diciembre, un ataque masivo soviético, precedido por dos días de intensos bombardeos, consigue tomar la ciudad con fuertes bajas. Los finlandeses intentan lanzar varios asaltos y consiguen tomar toda la región sur y fortificar el sur del Kintajärvi, con lo que concluye el escenario. Llegado a este punto los soviéticos tienen la carretera de Suomussalmi y pueden seguir al oeste pero mantienen una gran amenaza finlandeses. Han sufrido demasiadas bajas. Sin embargo, los finlandeses pueden atacar la línea soviética, pero no tienen suficiente capacidad como para lanzar un asalto sostenido sobre la ciudad, así que lo propio es reducir la presencia y utilizar sus fuerzas en otros puntos. Se considera una victoria táctica soviética, pero posiblemente una estratégica finlandesa, ya que el objetivo de cortar finlandia para el año nuevo es claramente imposible.
 
-[![Situación final](https://cloud.ajimenez.es/index.php/s/2mA6eaHaGNfiW5i/preview)](https://cloud.ajimenez.es/index.php/s/2mA6eaHaGNfiW5i)
+[![Situación final](https://cloud.ajimenez.es/index.php/s/g9YzntzfYSFomwT/preview)](https://cloud.ajimenez.es/index.php/s/g9YzntzfYSFomwT)
 *Situación final, una maraña de marcadores que indican que los soviéticos controlan suomussalmi, los finlandeses el sur del Kiantajärvi, todos tienen los ejércitos muy debilitados, y hay fortificaciones por todas partes.*
 
 Recursos adicionales
