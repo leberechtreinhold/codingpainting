@@ -109,8 +109,8 @@ El 17 de Diciembre amanece no sólo con las comunicaciones soviéticas reestable
 *Ahora son los finlandeses los que evalúan su situación y ver cómo reestablecer las comunicaciones.*
 
 
-20 Dic - 25 Dic
----------------
+20 Diciembre - 25 Diciembre
+---------------------------
 
 Los mandos soviéticos acaban de recibir unos refuerzos enormes, pero también disponen de los restos de la 163D, en la mayoría muy heridos, que necesitan apoyo desesperadamente. Y esta vez aprenden la lección, las carreteras finlandesas son demasiado estrechas, y una gigantesca columna volvería a traer problemas, además de un único punto de contacto. Además, realizar ataques y dejar el enemigo escapar es un error que acaba de dar una segunda oportunidad a su ejército, y no quieren permitir que ocurra.
 
