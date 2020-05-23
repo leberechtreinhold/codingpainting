@@ -1,7 +1,7 @@
 ---
 title: "Photography: Lightning!"
 date: 2020-05-08
-tags: ["photography"]
+tags: ["art", "photography"]
 ---
 
 There was a particularly strong storm near Pamplona on 2020/05/04. Using magic lantern with my 550d I managed to get some pictures of the lightning, which admittedly doesn't do the storm justice:
