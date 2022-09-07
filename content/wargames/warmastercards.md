@@ -17,6 +17,6 @@ The cards don't have a backside, they are designed to be used with a MTG card pr
 ![](https://cloud.ajimenez.es/index.php/s/qzTX4MxgoMgBjnQ/preview)
 ![](https://cloud.ajimenez.es/index.php/s/cqcSJpCn6xe84bd/preview)
 
-You can download the sheet here: https://cloud.ajimenez.es/index.php/s/kyTQFjBYxZA8no9
+You can download the sheet here: https://cloud.ajimenez.es/index.php/s/GZDNnEG4X6D8Mzn
 
 Do note that because Empire has 19 cards, and there are 9 per A4 page, the last page contains 8 repeated cards.
