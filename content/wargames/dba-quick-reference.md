@@ -11,20 +11,36 @@ tags: ["wargames", "wargame-resources", "dba"]
 
 A continuation of my statistics post, I have created a small Quick Reference Sheet with the most important information for playing, plus a single page with the stats. Lots of new people in the club excited for DBA, so I think this can be a very useful reference for all of us.
 
-[Download here](https://cloud.ajimenez.es/index.php/s/sEkys4qBHsSLqT5)
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/tWsfXXorrpN6gZs)
 
-[Download here (Shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/dyR7Dzgg7PnBti9)
-
-[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/Y9rXAZe4YF92R35)
-
-[Download here (Spanish Version, shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/N4er4gtXkdXDCcc)
-
-[Sheet for each player in a tournament, to record each match (Spanish only)](https://cloud.ajimenez.es/index.php/s/7NWizxH6YGMMgT4)
+Older versions and other languages are available below.
 
 *Image preview*
 ![Preview](https://cloud.ajimenez.es/index.php/s/GQ8nPsnMPSnSsiT/preview)
 
 ### Changelog
+
+
+#### 2023-05-14 v1.6
+
+- Added Artillery to the combat list
+
+
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/tWsfXXorrpN6gZs)
+
+
+#### 2023-05-01 v1.5
+
+- Fixed an error with the bonus of camp defenders.
+
+[Download here](https://cloud.ajimenez.es/index.php/s/jS4tskfJcM7yGRt)
+
+[Download here (Shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/nwbbjjsXPFq3sW4)
+
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/dfLgmc25jayH2MT)
+
+[Download here (Spanish Version, shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/nBSiJbJKbQpLFRR)
+
 
 #### 2019-03-03 v1.4
 
