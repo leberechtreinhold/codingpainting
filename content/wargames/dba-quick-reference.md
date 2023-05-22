@@ -11,15 +11,31 @@ tags: ["wargames", "wargame-resources", "dba"]
 
 A continuation of my statistics post, I have created a small Quick Reference Sheet with the most important information for playing, plus a single page with the stats. Lots of new people in the club excited for DBA, so I think this can be a very useful reference for all of us.
 
-[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/tWsfXXorrpN6gZs)
+[Download here](https://cloud.ajimenez.es/index.php/s/TR36A8XsEWAqLBZ)
 
-Older versions and other languages are available below.
+[Download here (Shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/HDNmwoN5Z74PJcd)
+
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/tN9mGN84CQBoDx9)
+
+[Download here (Spanish Version, shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/kaacBC3JkjiTTLs)
 
 *Image preview*
 ![Preview](https://cloud.ajimenez.es/index.php/s/GQ8nPsnMPSnSsiT/preview)
 
 ### Changelog
 
+
+#### 2023-05-22 v1.7
+
+- Fixed an error when Kn die to Bw when charging them
+
+[Download here](https://cloud.ajimenez.es/index.php/s/TR36A8XsEWAqLBZ)
+
+[Download here (Shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/HDNmwoN5Z74PJcd)
+
+[Download here (Spanish Version)](https://cloud.ajimenez.es/index.php/s/tN9mGN84CQBoDx9)
+
+[Download here (Spanish Version, shorter, printfriendly version)](https://cloud.ajimenez.es/index.php/s/kaacBC3JkjiTTLs)
 
 #### 2023-05-14 v1.6
 
