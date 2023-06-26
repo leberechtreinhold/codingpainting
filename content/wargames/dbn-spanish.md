@@ -18,6 +18,6 @@ La versión actual es la primera beta abierta. Todavía contiene muchas erratas,
 [Descarga aquí](https://cloud.ajimenez.es/index.php/s/TR36A8XsEWAqLBZ)
 
 *Imágenes*
-![Preview 1](https://cloud.ajimenez.es/index.php/s/4RtajHM284R8bfz)
-![Preview 2](https://cloud.ajimenez.es/index.php/s/ApJc9JFHra5mW68)
-![Preview 3](https://cloud.ajimenez.es/index.php/s/jyZFKZsDpPgjWCb)
+![Preview 1](https://cloud.ajimenez.es/index.php/s/4RtajHM284R8bfz/preview)
+![Preview 2](https://cloud.ajimenez.es/index.php/s/ApJc9JFHra5mW68/preview)
+![Preview 3](https://cloud.ajimenez.es/index.php/s/jyZFKZsDpPgjWCb/preview)
