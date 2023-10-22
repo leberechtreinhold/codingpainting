@@ -17,6 +17,13 @@ La versión actual es la primera beta abierta. Todavía contiene muchas erratas,
 
 [Descarga aquí la última versión](https://cloud.ajimenez.es/index.php/s/LoMCgTFfLWigspL)
 
+*Imágenes*
+![Preview 1](https://cloud.ajimenez.es/index.php/s/4RtajHM284R8bfz/preview)
+![Preview 2](https://cloud.ajimenez.es/index.php/s/ApJc9JFHra5mW68/preview)
+![Preview 3](https://cloud.ajimenez.es/index.php/s/jyZFKZsDpPgjWCb/preview)
+
+# Historial de versiones
+
 ## 22/10/2023 - Open Beta 12
 
 [Descarga aquí](https://cloud.ajimenez.es/index.php/s/LoMCgTFfLWigspL)
@@ -64,8 +71,3 @@ La versión actual es la primera beta abierta. Todavía contiene muchas erratas,
 ## 26/06/2023 - Open Beta 1
 
 [Descarga aquí](https://cloud.ajimenez.es/index.php/s/XapDtHSJxLSba6r)
-
-*Imágenes*
-![Preview 1](https://cloud.ajimenez.es/index.php/s/4RtajHM284R8bfz/preview)
-![Preview 2](https://cloud.ajimenez.es/index.php/s/ApJc9JFHra5mW68/preview)
-![Preview 3](https://cloud.ajimenez.es/index.php/s/jyZFKZsDpPgjWCb/preview)
