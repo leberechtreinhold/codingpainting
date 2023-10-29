@@ -15,7 +15,7 @@ El reglamento no sólo incluye todo el contenido del original, si no que además
 
 La versión actual es la primera beta abierta. Todavía contiene muchas erratas, y faltan todas las imágenes de miniaturas, que me tengo que poner a sacar. Además todavía quedan cuadros por procesar poniendo el nombre del autor y cuadro. El glosario y la imagen con las reglas también faltan, aunque las reglasw es mejor utilizar las de metacrilato o un metro. Pero para entender las reglas y empezar a jugar, debería valer.
 
-[Descarga aquí la última versión](https://cloud.ajimenez.es/index.php/s/Qf3fimXZfBEPMsy)
+[Descarga aquí la última versión](https://cloud.ajimenez.es/index.php/s/C5SqDCjp8ZAfMiK)
 
 *Imágenes*
 ![Preview 1](https://cloud.ajimenez.es/index.php/s/4RtajHM284R8bfz/preview)
@@ -23,6 +23,10 @@ La versión actual es la primera beta abierta. Todavía contiene muchas erratas,
 ![Preview 3](https://cloud.ajimenez.es/index.php/s/jyZFKZsDpPgjWCb/preview)
 
 # Historial de versiones
+
+## 29/10/2023 - Open Beta 14
+
+[Descarga aquí](https://cloud.ajimenez.es/index.php/s/C5SqDCjp8ZAfMiK)
 
 ## 25/10/2023 - Open Beta 13
 
