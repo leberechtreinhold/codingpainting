@@ -13,7 +13,7 @@ Tras unos cuantos meses, aquí esta la versión de De Bellis Napoleonicis (DBN) 
 
 El reglamento no sólo incluye todo el contenido del original, si no que además tiene muchos diagramas que ayudarán a entender algunos de los casos más enrevesados, todos ellos preaprobados por el autor, contiene una referencia rápida adicional (terreno y PIPs), además de contener muchos extras de información histórica que ayudarán a crear tu ejército y jugar escenarios históricos. Para las personas nuevas al mundo de los napoleónicos, el último capítulo resume un poco su rol en las guerras así como sus diferentes unidades.
 
-[Descarga aquí la última versión](https://cloud.ajimenez.es/index.php/s/PJWLcipSmZLModT)
+[Descarga aquí la última versión](https://cloud.ajimenez.es/index.php/s/rLDiCRfL6rG5Fbb)
 
 *Imágenes*
 ![Preview 1](https://cloud.ajimenez.es/index.php/s/4RtajHM284R8bfz/preview)
@@ -22,7 +22,12 @@ El reglamento no sólo incluye todo el contenido del original, si no que además
 
 # Historial de versiones
 
-## 17/12/2023 - Release Digital
+## 18/12/2023 - Release Digital 1.0.1 
+- Arreglados hyperlinks y bookmarks
+
+[Descarga aquí](https://cloud.ajimenez.es/index.php/s/rLDiCRfL6rG5Fbb)
+
+## 17/12/2023 - Release Digital 1.0.0
 
 [Descarga aquí](https://cloud.ajimenez.es/index.php/s/PJWLcipSmZLModT)
 
