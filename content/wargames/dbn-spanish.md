@@ -11,9 +11,7 @@ tags: ["wargames", "wargame-resources", "dba", "dbn", "napoleonics", "translatio
 
 Tras unos cuantos meses, aquí esta la versión de De Bellis Napoleonicis (DBN) traducida en español. La traducción se ha relizado con permiso del autor, Alex Testo, de KISR Publications, quien además ha sido muy amable y ha colaborado respondiendo dudas y ayudándome con ejemplos.
 
-El reglamento no sólo incluye todo el contenido del original, si no que además tiene muchos diagramas que ayudarán a entender algunos de los casos más enrevesados, todos ellos preaprobados por el autor, contiene una referencia rápida adicional (terreno y PIPs), además de contener muchos extras de información histórica que ayudarán a crear tu ejército y jugar escenarios históricos.
-
-La versión actual es la primera beta abierta. Todavía contiene muchas erratas, y faltan todas las imágenes de miniaturas, que me tengo que poner a sacar. Además todavía quedan cuadros por procesar poniendo el nombre del autor y cuadro. El glosario y la imagen con las reglas también faltan, aunque las reglasw es mejor utilizar las de metacrilato o un metro. Pero para entender las reglas y empezar a jugar, debería valer.
+El reglamento no sólo incluye todo el contenido del original, si no que además tiene muchos diagramas que ayudarán a entender algunos de los casos más enrevesados, todos ellos preaprobados por el autor, contiene una referencia rápida adicional (terreno y PIPs), además de contener muchos extras de información histórica que ayudarán a crear tu ejército y jugar escenarios históricos. Para las personas nuevas al mundo de los napoleónicos, el último capítulo resume un poco su rol en las guerras así como sus diferentes unidades.
 
 [Descarga aquí la última versión](https://cloud.ajimenez.es/index.php/s/PJWLcipSmZLModT)
 
